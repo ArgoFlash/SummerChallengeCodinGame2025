@@ -86,8 +86,6 @@ Il respecte :
 
 ## 🎥 Replay
 
-> Tu peux intégrer ici un lien vers une de tes parties en légende, comme par exemple :
-
 [🔗 Voir une partie en ligue Légende](https://www.codingame.com/replay/851109929)
 
 ---
